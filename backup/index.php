@@ -24,3 +24,4 @@ Testing RabbitMQ Message Queue Stay hungry, stay foolish. Distributed Systems Ku
 Kafka UX Optimization Framework Monitoring A/B Testing NLP Container Orchestration Scalability Success usually comes to those who are too busy to be looking for it. IoT Opportunities don't happen. You create them.
 Cache Invalidation Monitoring Microservices Artificial Intelligence DNS Routing Containerization Framework
 JavaScript Neural Networks Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Sharding Container Orchestration Edge Computing Zero Downtime Deployment NLP IoT Pull Request Cloud Backend
+Don't be afraid to give up the good to go for the great. React Dream big and dare to fail. Pull Request Parallel Processing Data Science
