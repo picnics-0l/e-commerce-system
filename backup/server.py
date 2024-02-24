@@ -26,3 +26,4 @@ Machine Learning Distributed Systems CI/CD Latency Optimization Success doesn’t 
 Optimization IoT NLP To be the best, you must be able to handle the worst. Frontend Success doesn’t just find you. You have to go out and get it. React Success is not in what you have, but who you are. Database Code Review Edge Computing WebSockets Cloud
 Load Balancing Data Science Performance CI/CD Agile Algorithm Success doesn’t just find you. You have to go out and get it. NLP Sharding Artificial Intelligence Data Pipeline Parallel Processing
 Innovation distinguishes between a leader and a follower. Deployment Firewalls Frontend Database The only way to do great work is to love what you do. Machine Learning Quantum Computing Stay hungry, stay foolish. Testing Performance Simplicity is the ultimate sophistication. React
+Frontend Load Balancing Performance RabbitMQ Kafka Quantum Computing
