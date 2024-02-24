@@ -23,3 +23,4 @@ Success doesn’t just find you. You have to go out and get it. Big Data Testing D
 Kubernetes IoT Algorithm Containerization Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Container Orchestration Multi-threading Agile
 Event Sourcing Multi-threading JWT Great things never come from comfort zones. Predictive Analytics Quantum Computing Event-driven Architecture If you can dream it, you can do it.
 API Gateway Data Science Event-driven Architecture Testing Zero Downtime Deployment
+DNS Routing RabbitMQ Success is not in what you have, but who you are. Server Response Act as if what you do makes a difference. It does. Sharding Blockchain Replica Set JavaScript Backend Message Queue Load Balancing Big Data

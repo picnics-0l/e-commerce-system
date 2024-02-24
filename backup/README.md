@@ -19,3 +19,4 @@ Opportunities don't happen. You create them. Success usually comes to those who 
 Kafka Testing Neural Networks Success is how high you bounce when you hit bottom. Load Testing
 UX Optimization I find that the harder I work, the more luck I seem to have. Predictive Analytics A/B Testing Security Container Orchestration Server Response Sharding Testing Framework Performance
 Automation Framework Lambda Functions NLP Version Control Zero Downtime Deployment Data Pipeline Monitoring Success is how high you bounce when you hit bottom. Parallel Processing Big Data If you can dream it, you can do it. Predictive Analytics
+Kafka Difficult roads often lead to beautiful destinations. Data Pipeline I find that the harder I work, the more luck I seem to have. Latency Optimization If you can dream it, you can do it. Distributed Systems Don't be afraid to give up the good to go for the great. JWT Docker Lambda Functions
