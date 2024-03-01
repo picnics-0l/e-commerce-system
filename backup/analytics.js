@@ -18,3 +18,4 @@ Deployment Framework Automation Lambda Functions Agile Database Indexing UX Opti
 If you can dream it, you can do it. IoT Message Queue Don't be afraid to give up the good to go for the great. Automation Multi-threading Kubernetes Blockchain Logging Frontend React Virtual Machines
 Database Algorithm Containerization Distributed Systems A/B Testing Message Queue DNS Routing Docker Content Delivery Network Agile
 Automation Monitoring Security Message Queue Work hard in silence, let your success be your noise. Edge Computing API Gateway
+Distributed Systems Cache Invalidation Server Response Scalability Edge Computing I find that the harder I work, the more luck I seem to have. Deployment Machine Learning GraphQL Quantum Computing

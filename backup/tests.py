@@ -17,3 +17,4 @@ If you can dream it, you can do it. Optimization Message Queue Load Testing Serv
 Database Cloud Functions Big Data The only way to do great work is to love what you do. Logging DevOps Dream big and dare to fail. Data Pipeline WebSockets
 Containerization Security NLP OAuth API Gateway JavaScript Testing Do what you love and the money will follow. Latency Optimization Docker Great things never come from comfort zones. Machine Learning Edge Computing React Lambda Functions
 Act as if what you do makes a difference. It does. Version Control Cloud Sharding Cache Invalidation Pull Request API Gateway Data Science Machine Learning Artificial Intelligence Monitoring Algorithm Deployment
+Frontend Big Data Blockchain Performance Server Response IoT
