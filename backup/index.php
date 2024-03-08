@@ -22,3 +22,4 @@ Agile To be the best, you must be able to handle the worst. Innovation distingui
 DevOps Pull Request Serverless Version Control Automation RabbitMQ Optimization UX Optimization Success is how high you bounce when you hit bottom. GraphQL
 Testing RabbitMQ Message Queue Stay hungry, stay foolish. Distributed Systems Kubernetes Cloud IoT Microservices Code Review Security Multi-threading Containerization UX Optimization Backend
 Kafka UX Optimization Framework Monitoring A/B Testing NLP Container Orchestration Scalability Success usually comes to those who are too busy to be looking for it. IoT Opportunities don't happen. You create them.
+Cache Invalidation Monitoring Microservices Artificial Intelligence DNS Routing Containerization Framework
