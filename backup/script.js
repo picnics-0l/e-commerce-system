@@ -25,3 +25,4 @@ Containerization Do what you love and the money will follow. React Event Sourcin
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. A/B Testing API Gateway Python Serverless Don't be afraid to give up the good to go for the great. Content Delivery Network Agile
 Don't be afraid to give up the good to go for the great. Frontend Agile A/B Testing RabbitMQ UX Optimization Opportunities don't happen. You create them. Parallel Processing Database
 Kubernetes Firewalls WebSockets Deployment Virtual Machines Microservices
+Data Pipeline Pull Request Python Dream big and dare to fail. Load Testing WebSockets Performance Latency Optimization Replica Set Framework
