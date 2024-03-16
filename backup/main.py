@@ -23,3 +23,4 @@ Big Data API Gateway Docker Success is not in what you have, but who you are. Ve
 Neural Networks Predictive Analytics Difficult roads often lead to beautiful destinations. Content Delivery Network Cloud
 Docker Sharding Virtual Machines Event Sourcing Great things never come from comfort zones. UX Optimization Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
 Message Queue Code Review Pull Request Optimization Stay hungry, stay foolish. React DNS Routing Simplicity is the ultimate sophistication. Database I find that the harder I work, the more luck I seem to have. Replica Set Monitoring Kubernetes Latency Optimization
+Container Orchestration Scalability Do what you love and the money will follow. Work hard in silence, let your success be your noise. GraphQL OAuth

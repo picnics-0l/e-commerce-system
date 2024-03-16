@@ -24,3 +24,4 @@ WebSockets Parallel Processing API Do what you love and the money will follow. V
 OAuth UX Optimization Neural Networks Load Testing Database Zero Downtime Deployment
 Machine Learning Distributed Systems CI/CD Latency Optimization Success doesn’t just find you. You have to go out and get it. Message Queue Python Framework Cloud Functions Code Review Load Testing Optimization Edge Computing
 Optimization IoT NLP To be the best, you must be able to handle the worst. Frontend Success doesn’t just find you. You have to go out and get it. React Success is not in what you have, but who you are. Database Code Review Edge Computing WebSockets Cloud
+Load Balancing Data Science Performance CI/CD Agile Algorithm Success doesn’t just find you. You have to go out and get it. NLP Sharding Artificial Intelligence Data Pipeline Parallel Processing
