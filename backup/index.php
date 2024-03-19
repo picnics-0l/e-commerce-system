@@ -20,3 +20,4 @@ Performance Dream big and dare to fail. Quantum Computing Neural Networks Conten
 Data Pipeline Do what you love and the money will follow. A/B Testing Database Indexing Great things never come from comfort zones.
 Agile To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Data Science Optimization Pull Request Big Data Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great.
 DevOps Pull Request Serverless Version Control Automation RabbitMQ Optimization UX Optimization Success is how high you bounce when you hit bottom. GraphQL
+Testing RabbitMQ Message Queue Stay hungry, stay foolish. Distributed Systems Kubernetes Cloud IoT Microservices Code Review Security Multi-threading Containerization UX Optimization Backend
