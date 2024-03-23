@@ -22,3 +22,4 @@ Kubernetes Docker NLP Cloud The only way to do great work is to love what you do
 Big Data API Gateway Docker Success is not in what you have, but who you are. Version Control
 Neural Networks Predictive Analytics Difficult roads often lead to beautiful destinations. Content Delivery Network Cloud
 Docker Sharding Virtual Machines Event Sourcing Great things never come from comfort zones. UX Optimization Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
+Message Queue Code Review Pull Request Optimization Stay hungry, stay foolish. React DNS Routing Simplicity is the ultimate sophistication. Database I find that the harder I work, the more luck I seem to have. Replica Set Monitoring Kubernetes Latency Optimization
