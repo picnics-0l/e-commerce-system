@@ -22,3 +22,4 @@ Success is not in what you have, but who you are. Algorithm Framework I find tha
 Success doesn’t just find you. You have to go out and get it. Big Data Testing DNS Routing Server Response JWT The only way to do great work is to love what you do.
 Kubernetes IoT Algorithm Containerization Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Container Orchestration Multi-threading Agile
 Event Sourcing Multi-threading JWT Great things never come from comfort zones. Predictive Analytics Quantum Computing Event-driven Architecture If you can dream it, you can do it.
+API Gateway Data Science Event-driven Architecture Testing Zero Downtime Deployment
