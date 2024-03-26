@@ -23,3 +23,4 @@ Difficult roads often lead to beautiful destinations. Success usually comes to t
 Success usually comes to those who are too busy to be looking for it. Sharding Work hard in silence, let your success be your noise. Event-driven Architecture Distributed Systems Lambda Functions Cloud Functions Neural Networks Stay hungry, stay foolish. Agile Microservices Opportunities don't happen. You create them.
 Containerization Do what you love and the money will follow. React Event Sourcing Machine Learning IoT Cache Invalidation API Gateway
 If you can dream it, you can do it. To be the best, you must be able to handle the worst. A/B Testing API Gateway Python Serverless Don't be afraid to give up the good to go for the great. Content Delivery Network Agile
+Don't be afraid to give up the good to go for the great. Frontend Agile A/B Testing RabbitMQ UX Optimization Opportunities don't happen. You create them. Parallel Processing Database
