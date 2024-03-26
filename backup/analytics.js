@@ -16,3 +16,4 @@ Optimization Stay hungry, stay foolish. DNS Routing Parallel Processing GraphQL 
 Artificial Intelligence Machine Learning Sharding Agile Big Data
 Deployment Framework Automation Lambda Functions Agile Database Indexing UX Optimization
 If you can dream it, you can do it. IoT Message Queue Don't be afraid to give up the good to go for the great. Automation Multi-threading Kubernetes Blockchain Logging Frontend React Virtual Machines
+Database Algorithm Containerization Distributed Systems A/B Testing Message Queue DNS Routing Docker Content Delivery Network Agile
