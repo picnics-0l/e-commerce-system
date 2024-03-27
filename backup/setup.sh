@@ -26,3 +26,4 @@ API Gateway Dream big and dare to fail. OAuth Do what you love and the money wil
 Docker API Algorithm Distributed Systems Cache Invalidation Kubernetes Server Response Container Orchestration UX Optimization
 Success is how high you bounce when you hit bottom. Docker Message Queue Success is not in what you have, but who you are. RabbitMQ
 IoT OAuth Quantum Computing Server Response Predictive Analytics Happiness is not something ready made. It comes from your own actions. Distributed Systems Success usually comes to those who are too busy to be looking for it.
+RabbitMQ Do what you love and the money will follow. Act as if what you do makes a difference. It does. Scalability DevOps Agile WebSockets Firewalls Security Edge Computing JWT Success doesn’t just find you. You have to go out and get it. Deployment Automation
