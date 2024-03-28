@@ -25,3 +25,4 @@ Load Testing Parallel Processing Database Edge Computing Blockchain IoT Containe
 API Gateway Dream big and dare to fail. OAuth Do what you love and the money will follow. Framework GraphQL A/B Testing Kubernetes Success is not in what you have, but who you are. Machine Learning NLP Performance Agile
 Docker API Algorithm Distributed Systems Cache Invalidation Kubernetes Server Response Container Orchestration UX Optimization
 Success is how high you bounce when you hit bottom. Docker Message Queue Success is not in what you have, but who you are. RabbitMQ
+IoT OAuth Quantum Computing Server Response Predictive Analytics Happiness is not something ready made. It comes from your own actions. Distributed Systems Success usually comes to those who are too busy to be looking for it.
