@@ -21,3 +21,4 @@ Don't be afraid to give up the good to go for the great. GraphQL Data Pipeline L
 Kubernetes Docker NLP Cloud The only way to do great work is to love what you do. Message Queue Backend Load Balancing Version Control API Deployment Zero Downtime Deployment
 Big Data API Gateway Docker Success is not in what you have, but who you are. Version Control
 Neural Networks Predictive Analytics Difficult roads often lead to beautiful destinations. Content Delivery Network Cloud
+Docker Sharding Virtual Machines Event Sourcing Great things never come from comfort zones. UX Optimization Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
