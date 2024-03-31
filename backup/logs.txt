@@ -20,3 +20,4 @@ Edge Computing OAuth Lambda Functions Data Science Frontend Don't be afraid to g
 Content Delivery Network Load Testing Blockchain Monitoring Frontend Act as if what you do makes a difference. It does. Multi-threading Kubernetes Machine Learning Cloud GraphQL Serverless
 Stay hungry, stay foolish. IoT Code Review Act as if what you do makes a difference. It does. React Microservices Load Testing Don't be afraid to give up the good to go for the great. Serverless Success is how high you bounce when you hit bottom. CI/CD
 GraphQL Simplicity is the ultimate sophistication. Performance API Gateway Blockchain Multi-threading
+Load Balancing Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Virtual Machines Automation Happiness is not something ready made. It comes from your own actions.

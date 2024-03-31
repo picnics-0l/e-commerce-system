@@ -14,3 +14,4 @@ Kafka Predictive Analytics Do what you love and the money will follow. Success d
 OAuth Virtual Machines Load Testing Opportunities don't happen. You create them. Agile Blockchain Neural Networks Success doesn’t just find you. You have to go out and get it. Data Pipeline Event Sourcing Pull Request Microservices Server Response
 Optimization Stay hungry, stay foolish. DNS Routing Parallel Processing GraphQL API Cloud Edge Computing Deployment Latency Optimization Python Version Control Backend Simplicity is the ultimate sophistication.
 Artificial Intelligence Machine Learning Sharding Agile Big Data
+Deployment Framework Automation Lambda Functions Agile Database Indexing UX Optimization

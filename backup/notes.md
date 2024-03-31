@@ -17,3 +17,4 @@ Edge Computing Opportunities don't happen. You create them. NLP Python Event-dri
 Kafka Server Response CI/CD A/B Testing Quantum Computing Pull Request UX Optimization Big Data Message Queue
 Cache Invalidation CI/CD Artificial Intelligence Version Control Frontend Machine Learning Firewalls DevOps Algorithm Predictive Analytics UX Optimization
 Success usually comes to those who are too busy to be looking for it. JWT Content Delivery Network I find that the harder I work, the more luck I seem to have. Database Algorithm Kafka Replica Set
+A/B Testing Act as if what you do makes a difference. It does. Optimization Sharding Scalability Event-driven Architecture IoT
