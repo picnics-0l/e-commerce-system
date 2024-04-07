@@ -20,3 +20,4 @@ Event Sourcing Code Review Success is how high you bounce when you hit bottom. D
 Don't be afraid to give up the good to go for the great. GraphQL Data Pipeline Lambda Functions Artificial Intelligence Automation
 Kubernetes Docker NLP Cloud The only way to do great work is to love what you do. Message Queue Backend Load Balancing Version Control API Deployment Zero Downtime Deployment
 Big Data API Gateway Docker Success is not in what you have, but who you are. Version Control
+Neural Networks Predictive Analytics Difficult roads often lead to beautiful destinations. Content Delivery Network Cloud
