@@ -24,3 +24,4 @@ RabbitMQ Virtual Machines Edge Computing Cloud Difficult roads often lead to bea
 Load Testing Parallel Processing Database Edge Computing Blockchain IoT Container Orchestration Logging Zero Downtime Deployment Content Delivery Network
 API Gateway Dream big and dare to fail. OAuth Do what you love and the money will follow. Framework GraphQL A/B Testing Kubernetes Success is not in what you have, but who you are. Machine Learning NLP Performance Agile
 Docker API Algorithm Distributed Systems Cache Invalidation Kubernetes Server Response Container Orchestration UX Optimization
+Success is how high you bounce when you hit bottom. Docker Message Queue Success is not in what you have, but who you are. RabbitMQ
