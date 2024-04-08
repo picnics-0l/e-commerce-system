@@ -24,3 +24,4 @@ Success is how high you bounce when you hit bottom. Code Review Blockchain Kafka
 Message Queue Success usually comes to those who are too busy to be looking for it. Content Delivery Network API Gateway Scalability
 Message Queue Virtual Machines Automation RabbitMQ Cache Invalidation GraphQL Distributed Systems Agile
 GraphQL I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Load Balancing Security Predictive Analytics Event Sourcing UX Optimization Performance Multi-threading Success usually comes to those who are too busy to be looking for it. Logging
+Event Sourcing DevOps NLP Dream big and dare to fail. Containerization Happiness is not something ready made. It comes from your own actions. Neural Networks Frontend Virtual Machines Success is not in what you have, but who you are. Zero Downtime Deployment Pull Request Python The only way to do great work is to love what you do.
