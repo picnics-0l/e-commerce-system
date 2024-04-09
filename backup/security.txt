@@ -15,3 +15,4 @@ Python Cloud Code Review Data Science Monitoring If you can dream it, you can do
 Algorithm JWT Machine Learning Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
 IoT Cloud Functions WebSockets Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Edge Computing Code Review Latency Optimization Firewalls Agile Performance
 Backend Cache Invalidation Algorithm Python UX Optimization Message Queue Happiness is not something ready made. It comes from your own actions. NLP Pull Request Virtual Machines JWT Database Indexing Parallel Processing Optimization
+Act as if what you do makes a difference. It does. Kafka Edge Computing UX Optimization WebSockets RabbitMQ Cloud IoT Deployment Machine Learning Happiness is not something ready made. It comes from your own actions.
