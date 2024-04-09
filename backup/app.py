@@ -23,3 +23,4 @@ Difficult roads often lead to beautiful destinations. DevOps IoT Blockchain Simp
 Success is how high you bounce when you hit bottom. Code Review Blockchain Kafka Big Data Event Sourcing Lambda Functions API Gateway Deployment Pull Request Simplicity is the ultimate sophistication.
 Message Queue Success usually comes to those who are too busy to be looking for it. Content Delivery Network API Gateway Scalability
 Message Queue Virtual Machines Automation RabbitMQ Cache Invalidation GraphQL Distributed Systems Agile
+GraphQL I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Load Balancing Security Predictive Analytics Event Sourcing UX Optimization Performance Multi-threading Success usually comes to those who are too busy to be looking for it. Logging
