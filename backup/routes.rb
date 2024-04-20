@@ -15,3 +15,4 @@ Logging Neural Networks Container Orchestration Blockchain API Cache Invalidatio
 Edge Computing Serverless API Gateway Kubernetes Code Review Blockchain
 Artificial Intelligence Algorithm Zero Downtime Deployment Scalability Success doesn’t just find you. You have to go out and get it. Distributed Systems Security Automation Cloud Python Replica Set Backend
 Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. CI/CD I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Docker Database Work hard in silence, let your success be your noise. Sharding Serverless Dream big and dare to fail.
+Backend Act as if what you do makes a difference. It does. Artificial Intelligence Dream big and dare to fail. NLP RabbitMQ
