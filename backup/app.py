@@ -22,3 +22,4 @@ Lambda Functions Microservices Cloud Functions Success usually comes to those wh
 Difficult roads often lead to beautiful destinations. DevOps IoT Blockchain Simplicity is the ultimate sophistication. Cloud Functions Great things never come from comfort zones. RabbitMQ Neural Networks GraphQL Serverless A/B Testing Act as if what you do makes a difference. It does.
 Success is how high you bounce when you hit bottom. Code Review Blockchain Kafka Big Data Event Sourcing Lambda Functions API Gateway Deployment Pull Request Simplicity is the ultimate sophistication.
 Message Queue Success usually comes to those who are too busy to be looking for it. Content Delivery Network API Gateway Scalability
+Message Queue Virtual Machines Automation RabbitMQ Cache Invalidation GraphQL Distributed Systems Agile
