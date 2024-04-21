@@ -13,3 +13,4 @@ Replica Set Innovation distinguishes between a leader and a follower. Big Data C
 Difficult roads often lead to beautiful destinations. DNS Routing JWT Simplicity is the ultimate sophistication. Optimization
 Python Cloud Code Review Data Science Monitoring If you can dream it, you can do it. Data Pipeline Kubernetes Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. RabbitMQ Algorithm Lambda Functions Scalability
 Algorithm JWT Machine Learning Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
+IoT Cloud Functions WebSockets Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Edge Computing Code Review Latency Optimization Firewalls Agile Performance
