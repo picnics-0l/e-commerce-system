@@ -25,3 +25,4 @@ DNS Routing Performance Testing Pull Request Don't be afraid to give up the good
 Opportunities don't happen. You create them. Docker Server Response Quantum Computing Stay hungry, stay foolish. Replica Set Message Queue Cloud Testing Edge Computing
 Firewalls WebSockets Code Review Database Kubernetes Message Queue
 Data Pipeline Multi-threading Simplicity is the ultimate sophistication. Sharding Backend Act as if what you do makes a difference. It does. Frontend Testing Scalability JWT
+Difficult roads often lead to beautiful destinations. Edge Computing Containerization Load Testing To be the best, you must be able to handle the worst. Frontend Database Indexing If you can dream it, you can do it. Event Sourcing
