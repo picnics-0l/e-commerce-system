@@ -14,3 +14,4 @@ Latency Optimization JavaScript Blockchain Agile RabbitMQ Simplicity is the ulti
 Logging Neural Networks Container Orchestration Blockchain API Cache Invalidation Sharding Replica Set Success is how high you bounce when you hit bottom. Python Opportunities don't happen. You create them. Event Sourcing
 Edge Computing Serverless API Gateway Kubernetes Code Review Blockchain
 Artificial Intelligence Algorithm Zero Downtime Deployment Scalability Success doesn’t just find you. You have to go out and get it. Distributed Systems Security Automation Cloud Python Replica Set Backend
+Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. CI/CD I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Docker Database Work hard in silence, let your success be your noise. Sharding Serverless Dream big and dare to fail.

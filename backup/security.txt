@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Data Pipeline Latency 
 Replica Set Innovation distinguishes between a leader and a follower. Big Data Content Delivery Network Backend Optimization
 Difficult roads often lead to beautiful destinations. DNS Routing JWT Simplicity is the ultimate sophistication. Optimization
 Python Cloud Code Review Data Science Monitoring If you can dream it, you can do it. Data Pipeline Kubernetes Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. RabbitMQ Algorithm Lambda Functions Scalability
+Algorithm JWT Machine Learning Stay hungry, stay foolish. To be the best, you must be able to handle the worst.
