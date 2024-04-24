@@ -24,3 +24,4 @@ Version Control Logging Deployment API Gateway Event Sourcing Machine Learning D
 DNS Routing Performance Testing Pull Request Don't be afraid to give up the good to go for the great.
 Opportunities don't happen. You create them. Docker Server Response Quantum Computing Stay hungry, stay foolish. Replica Set Message Queue Cloud Testing Edge Computing
 Firewalls WebSockets Code Review Database Kubernetes Message Queue
+Data Pipeline Multi-threading Simplicity is the ultimate sophistication. Sharding Backend Act as if what you do makes a difference. It does. Frontend Testing Scalability JWT
