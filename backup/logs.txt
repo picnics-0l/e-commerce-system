@@ -17,3 +17,4 @@ Work hard in silence, let your success be your noise. Latency Optimization Testi
 Success is not in what you have, but who you are. CI/CD Work hard in silence, let your success be your noise. OAuth Distributed Systems
 Great things never come from comfort zones. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Event Sourcing Distributed Systems OAuth Stay hungry, stay foolish. Server Response API WebSockets Success usually comes to those who are too busy to be looking for it.
 Edge Computing OAuth Lambda Functions Data Science Frontend Don't be afraid to give up the good to go for the great. Blockchain Load Balancing Optimization Serverless Dream big and dare to fail. RabbitMQ
+Content Delivery Network Load Testing Blockchain Monitoring Frontend Act as if what you do makes a difference. It does. Multi-threading Kubernetes Machine Learning Cloud GraphQL Serverless
