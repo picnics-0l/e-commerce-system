@@ -17,3 +17,4 @@ Containerization Predictive Analytics Edge Computing Frontend API Gateway Firewa
 A/B Testing Neural Networks Python Multi-threading Database Indexing Do what you love and the money will follow. Kafka
 Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. Data Science Event Sourcing I find that the harder I work, the more luck I seem to have. Innovation distinguishes between a leader and a follower. JWT IoT Cache Invalidation Microservices Latency Optimization Containerization Predictive Analytics JavaScript
 Kafka Testing Neural Networks Success is how high you bounce when you hit bottom. Load Testing
+UX Optimization I find that the harder I work, the more luck I seem to have. Predictive Analytics A/B Testing Security Container Orchestration Server Response Sharding Testing Framework Performance
