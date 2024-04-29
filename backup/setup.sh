@@ -23,3 +23,4 @@ Version Control Data Science UX Optimization Zero Downtime Deployment Cloud Fram
 RabbitMQ Virtual Machines Edge Computing Cloud Difficult roads often lead to beautiful destinations. A/B Testing Happiness is not something ready made. It comes from your own actions. NLP
 Load Testing Parallel Processing Database Edge Computing Blockchain IoT Container Orchestration Logging Zero Downtime Deployment Content Delivery Network
 API Gateway Dream big and dare to fail. OAuth Do what you love and the money will follow. Framework GraphQL A/B Testing Kubernetes Success is not in what you have, but who you are. Machine Learning NLP Performance Agile
+Docker API Algorithm Distributed Systems Cache Invalidation Kubernetes Server Response Container Orchestration UX Optimization
