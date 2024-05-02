@@ -18,3 +18,4 @@ Load Testing Agile Monitoring Simplicity is the ultimate sophistication. Python 
 Security CI/CD Database Indexing Automation Algorithm To be the best, you must be able to handle the worst. Cache Invalidation Container Orchestration Performance Containerization Data Science Sharding OAuth Opportunities don't happen. You create them. API
 Artificial Intelligence Parallel Processing Serverless IoT WebSockets
 Monitoring Success is not in what you have, but who you are. Parallel Processing Difficult roads often lead to beautiful destinations. Automation Distributed Systems Serverless Content Delivery Network Cache Invalidation Edge Computing React
+Success is not in what you have, but who you are. Algorithm Framework I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow. Code Review Artificial Intelligence Event-driven Architecture Monitoring Machine Learning
