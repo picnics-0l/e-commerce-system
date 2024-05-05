@@ -16,3 +16,4 @@ Opportunities don't happen. You create them. Server Response Blockchain Event-dr
 IoT Firewalls JavaScript Zero Downtime Deployment RabbitMQ
 API Gateway Distributed Systems OAuth Logging Firewalls Version Control
 If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. OAuth Kafka JavaScript Code Review Agile Docker Success is how high you bounce when you hit bottom. RabbitMQ Kubernetes Automation Testing
+Cache Invalidation Cloud Framework WebSockets Zero Downtime Deployment Scalability Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Docker If you can dream it, you can do it. CI/CD Algorithm Monitoring
