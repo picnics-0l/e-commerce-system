@@ -17,3 +17,4 @@ Pull Request Cloud Simplicity is the ultimate sophistication. DNS Routing Act as
 Load Testing Agile Monitoring Simplicity is the ultimate sophistication. Python Neural Networks Data Pipeline Virtual Machines Dream big and dare to fail. NLP Pull Request Kubernetes Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment
 Security CI/CD Database Indexing Automation Algorithm To be the best, you must be able to handle the worst. Cache Invalidation Container Orchestration Performance Containerization Data Science Sharding OAuth Opportunities don't happen. You create them. API
 Artificial Intelligence Parallel Processing Serverless IoT WebSockets
+Monitoring Success is not in what you have, but who you are. Parallel Processing Difficult roads often lead to beautiful destinations. Automation Distributed Systems Serverless Content Delivery Network Cache Invalidation Edge Computing React
