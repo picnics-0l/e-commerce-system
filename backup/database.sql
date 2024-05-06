@@ -15,3 +15,4 @@ Cloud Functions Success is not in what you have, but who you are. Opportunities 
 Opportunities don't happen. You create them. Server Response Blockchain Event-driven Architecture Testing Kafka Event Sourcing Distributed Systems I find that the harder I work, the more luck I seem to have. Scalability Predictive Analytics Virtual Machines
 IoT Firewalls JavaScript Zero Downtime Deployment RabbitMQ
 API Gateway Distributed Systems OAuth Logging Firewalls Version Control
+If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. OAuth Kafka JavaScript Code Review Agile Docker Success is how high you bounce when you hit bottom. RabbitMQ Kubernetes Automation Testing
