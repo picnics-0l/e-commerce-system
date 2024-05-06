@@ -22,3 +22,4 @@ JWT Container Orchestration Success doesn’t just find you. You have to go out an
 Version Control Data Science UX Optimization Zero Downtime Deployment Cloud Framework Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions Docker
 RabbitMQ Virtual Machines Edge Computing Cloud Difficult roads often lead to beautiful destinations. A/B Testing Happiness is not something ready made. It comes from your own actions. NLP
 Load Testing Parallel Processing Database Edge Computing Blockchain IoT Container Orchestration Logging Zero Downtime Deployment Content Delivery Network
+API Gateway Dream big and dare to fail. OAuth Do what you love and the money will follow. Framework GraphQL A/B Testing Kubernetes Success is not in what you have, but who you are. Machine Learning NLP Performance Agile

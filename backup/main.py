@@ -18,3 +18,4 @@ Logging Virtual Machines The only way to do great work is to love what you do. P
 Server Response Don't be afraid to give up the good to go for the great. Replica Set JWT Data Science Latency Optimization JavaScript Scalability Optimization NLP Cache Invalidation Quantum Computing Simplicity is the ultimate sophistication. Automation
 Event Sourcing Code Review Success is how high you bounce when you hit bottom. Distributed Systems Stay hungry, stay foolish. Edge Computing Database Indexing Deployment OAuth
 Don't be afraid to give up the good to go for the great. GraphQL Data Pipeline Lambda Functions Artificial Intelligence Automation
+Kubernetes Docker NLP Cloud The only way to do great work is to love what you do. Message Queue Backend Load Balancing Version Control API Deployment Zero Downtime Deployment
