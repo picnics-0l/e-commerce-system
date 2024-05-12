@@ -20,3 +20,4 @@ Blockchain Code Review Neural Networks Microservices Sharding Success is not in 
 API CI/CD Cloud RabbitMQ Zero Downtime Deployment Testing
 To be the best, you must be able to handle the worst. Dream big and dare to fail. Database Indexing Sharding Event-driven Architecture
 Dream big and dare to fail. Serverless Multi-threading Do what you love and the money will follow. Database Indexing API Gateway Cloud Functions
+Logging Lambda Functions Virtual Machines Success is not in what you have, but who you are. Load Balancing Docker Cloud Functions Edge Computing
