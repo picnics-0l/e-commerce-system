@@ -16,3 +16,4 @@ Predictive Analytics Artificial Intelligence API IoT API Gateway JavaScript Succ
 API Gateway Frontend Firewalls Message Queue WebSockets
 Innovation distinguishes between a leader and a follower. Version Control IoT Kafka Quantum Computing Blockchain Success is how high you bounce when you hit bottom.
 A/B Testing Opportunities don't happen. You create them. Python Event-driven Architecture Replica Set CI/CD Predictive Analytics Testing DevOps Optimization Machine Learning
+Don't be afraid to give up the good to go for the great. Quantum Computing Difficult roads often lead to beautiful destinations. Zero Downtime Deployment API RabbitMQ Firewalls Cloud Functions Event-driven Architecture Version Control Load Balancing Data Pipeline Predictive Analytics Multi-threading
