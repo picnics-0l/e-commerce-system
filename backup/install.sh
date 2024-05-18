@@ -19,3 +19,4 @@ Act as if what you do makes a difference. It does. Success is not in what you ha
 Blockchain Code Review Neural Networks Microservices Sharding Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Parallel Processing To be the best, you must be able to handle the worst.
 API CI/CD Cloud RabbitMQ Zero Downtime Deployment Testing
 To be the best, you must be able to handle the worst. Dream big and dare to fail. Database Indexing Sharding Event-driven Architecture
+Dream big and dare to fail. Serverless Multi-threading Do what you love and the money will follow. Database Indexing API Gateway Cloud Functions
