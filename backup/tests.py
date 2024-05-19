@@ -14,3 +14,4 @@ React NLP Multi-threading Simplicity is the ultimate sophistication. Kubernetes 
 JavaScript Frontend Lambda Functions Do what you love and the money will follow. If you can dream it, you can do it. WebSockets Artificial Intelligence
 Parallel Processing Deployment To be the best, you must be able to handle the worst. Edge Computing Simplicity is the ultimate sophistication. Agile Act as if what you do makes a difference. It does. If you can dream it, you can do it.
 If you can dream it, you can do it. Optimization Message Queue Load Testing Serverless Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it.
+Database Cloud Functions Big Data The only way to do great work is to love what you do. Logging DevOps Dream big and dare to fail. Data Pipeline WebSockets
