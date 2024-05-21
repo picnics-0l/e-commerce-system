@@ -20,3 +20,4 @@ React Opportunities don't happen. You create them. Python Work hard in silence, 
 RabbitMQ Do what you love and the money will follow. React Database Indexing Optimization Load Testing
 JWT Container Orchestration Success doesn’t just find you. You have to go out and get it. Big Data CI/CD Pull Request Frontend Virtual Machines
 Version Control Data Science UX Optimization Zero Downtime Deployment Cloud Framework Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions Docker
+RabbitMQ Virtual Machines Edge Computing Cloud Difficult roads often lead to beautiful destinations. A/B Testing Happiness is not something ready made. It comes from your own actions. NLP
