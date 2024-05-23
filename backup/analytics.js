@@ -10,3 +10,4 @@ Difficult roads often lead to beautiful destinations. Dream big and dare to fail
 Virtual Machines Firewalls Quantum Computing Algorithm Event-driven Architecture JWT Testing
 Success is not in what you have, but who you are. JWT Great things never come from comfort zones. Database Indexing Don't be afraid to give up the good to go for the great. Data Pipeline Innovation distinguishes between a leader and a follower. WebSockets JavaScript
 Innovation distinguishes between a leader and a follower. WebSockets Data Pipeline Framework Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Database Indexing Multi-threading Database Serverless Firewalls Automation Kafka
+Kafka Predictive Analytics Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. Great things never come from comfort zones. GraphQL Database Indexing Replica Set
