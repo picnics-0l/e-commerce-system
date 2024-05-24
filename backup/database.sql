@@ -13,3 +13,4 @@ Quantum Computing Success doesn’t just find you. You have to go out and get it. 
 JWT Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Sharding DevOps Performance Do what you love and the money will follow. Code Review Automation Zero Downtime Deployment
 Cloud Functions Success is not in what you have, but who you are. Opportunities don't happen. You create them. IoT UX Optimization Automation To be the best, you must be able to handle the worst. Version Control Load Balancing GraphQL Event-driven Architecture Success is how high you bounce when you hit bottom. Event Sourcing Load Testing Cache Invalidation
 Opportunities don't happen. You create them. Server Response Blockchain Event-driven Architecture Testing Kafka Event Sourcing Distributed Systems I find that the harder I work, the more luck I seem to have. Scalability Predictive Analytics Virtual Machines
+IoT Firewalls JavaScript Zero Downtime Deployment RabbitMQ
