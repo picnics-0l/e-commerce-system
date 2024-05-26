@@ -12,3 +12,4 @@ Container Orchestration Firewalls Innovation distinguishes between a leader and 
 Firewalls Agile Latency Optimization Machine Learning Lambda Functions Act as if what you do makes a difference. It does. Kafka Deployment The only way to do great work is to love what you do. Event Sourcing API JavaScript
 Happiness is not something ready made. It comes from your own actions. Neural Networks Database Parallel Processing WebSockets API Gateway Frontend Latency Optimization Stay hungry, stay foolish. Predictive Analytics Algorithm IoT Load Testing
 Predictive Analytics Container Orchestration GraphQL RabbitMQ Opportunities don't happen. You create them. Virtual Machines JavaScript Innovation distinguishes between a leader and a follower. Framework Algorithm React Security Act as if what you do makes a difference. It does.
+Dream big and dare to fail. NLP Performance Load Testing OAuth Docker Edge Computing
