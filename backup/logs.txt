@@ -13,3 +13,4 @@ Framework Big Data API Gateway Data Pipeline Cache Invalidation Load Testing Vir
 Predictive Analytics Success usually comes to those who are too busy to be looking for it. Optimization DNS Routing Work hard in silence, let your success be your noise. Cloud Functions Replica Set OAuth Automation Kafka Stay hungry, stay foolish. Edge Computing Success is not in what you have, but who you are.
 JavaScript Cloud Data Pipeline Framework Success usually comes to those who are too busy to be looking for it.
 Deployment Framework Logging Scalability Zero Downtime Deployment Firewalls
+Work hard in silence, let your success be your noise. Latency Optimization Testing Microservices OAuth CI/CD Event-driven Architecture Success is how high you bounce when you hit bottom. API Gateway Serverless Backend Zero Downtime Deployment Great things never come from comfort zones. Code Review Multi-threading
