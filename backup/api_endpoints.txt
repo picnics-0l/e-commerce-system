@@ -15,3 +15,4 @@ Innovation distinguishes between a leader and a follower. Success is not in what
 Predictive Analytics Artificial Intelligence API IoT API Gateway JavaScript Success doesn’t just find you. You have to go out and get it. Security To be the best, you must be able to handle the worst. DNS Routing Do what you love and the money will follow.
 API Gateway Frontend Firewalls Message Queue WebSockets
 Innovation distinguishes between a leader and a follower. Version Control IoT Kafka Quantum Computing Blockchain Success is how high you bounce when you hit bottom.
+A/B Testing Opportunities don't happen. You create them. Python Event-driven Architecture Replica Set CI/CD Predictive Analytics Testing DevOps Optimization Machine Learning

@@ -13,3 +13,4 @@ NLP I find that the harder I work, the more luck I seem to have. Cache Invalidat
 Latency Optimization JavaScript Blockchain Agile RabbitMQ Simplicity is the ultimate sophistication. Serverless Artificial Intelligence Great things never come from comfort zones. IoT Testing WebSockets
 Logging Neural Networks Container Orchestration Blockchain API Cache Invalidation Sharding Replica Set Success is how high you bounce when you hit bottom. Python Opportunities don't happen. You create them. Event Sourcing
 Edge Computing Serverless API Gateway Kubernetes Code Review Blockchain
+Artificial Intelligence Algorithm Zero Downtime Deployment Scalability Success doesn’t just find you. You have to go out and get it. Distributed Systems Security Automation Cloud Python Replica Set Backend
