@@ -18,3 +18,4 @@ Parallel Processing Artificial Intelligence Predictive Analytics Microservices A
 Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Automation Cloud Data Science WebSockets If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Pull Request Zero Downtime Deployment Deployment RabbitMQ
 Blockchain Code Review Neural Networks Microservices Sharding Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Parallel Processing To be the best, you must be able to handle the worst.
 API CI/CD Cloud RabbitMQ Zero Downtime Deployment Testing
+To be the best, you must be able to handle the worst. Dream big and dare to fail. Database Indexing Sharding Event-driven Architecture
