@@ -8,3 +8,4 @@ Lambda Functions CI/CD Don't be afraid to give up the good to go for the great. 
 Serverless Success is not in what you have, but who you are. Load Balancing Edge Computing Parallel Processing React
 Container Orchestration Zero Downtime Deployment Blockchain Testing I find that the harder I work, the more luck I seem to have. Scalability Cloud Functions Automation Cloud Success usually comes to those who are too busy to be looking for it.
 Success usually comes to those who are too busy to be looking for it. Backend Predictive Analytics Replica Set Version Control UX Optimization Machine Learning
+Version Control UX Optimization Happiness is not something ready made. It comes from your own actions. Serverless Agile Innovation distinguishes between a leader and a follower. RabbitMQ A/B Testing Distributed Systems Replica Set If you can dream it, you can do it. Zero Downtime Deployment The only way to do great work is to love what you do.

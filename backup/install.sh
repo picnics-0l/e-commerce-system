@@ -16,3 +16,4 @@ Blockchain Load Balancing NLP React Frontend Difficult roads often lead to beaut
 Lambda Functions Scalability Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Frontend
 Parallel Processing Artificial Intelligence Predictive Analytics Microservices Algorithm Performance Don't be afraid to give up the good to go for the great. NLP Backend Docker Do what you love and the money will follow.
 Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. Automation Cloud Data Science WebSockets If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Pull Request Zero Downtime Deployment Deployment RabbitMQ
+Blockchain Code Review Neural Networks Microservices Sharding Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Parallel Processing To be the best, you must be able to handle the worst.
