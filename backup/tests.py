@@ -11,3 +11,4 @@ Python IoT Performance To be the best, you must be able to handle the worst. I f
 Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. DevOps Dream big and dare to fail. IoT Testing Do what you love and the money will follow. To be the best, you must be able to handle the worst. Content Delivery Network
 Python Quantum Computing Stay hungry, stay foolish. Performance Virtual Machines Innovation distinguishes between a leader and a follower. NLP Neural Networks Message Queue Zero Downtime Deployment Container Orchestration
 React NLP Multi-threading Simplicity is the ultimate sophistication. Kubernetes Containerization RabbitMQ Dream big and dare to fail. Big Data Success is how high you bounce when you hit bottom. Load Balancing Cloud Functions
+JavaScript Frontend Lambda Functions Do what you love and the money will follow. If you can dream it, you can do it. WebSockets Artificial Intelligence
