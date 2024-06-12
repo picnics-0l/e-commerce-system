@@ -13,3 +13,4 @@ Performance I find that the harder I work, the more luck I seem to have. Serverl
 Latency Optimization Message Queue Success is not in what you have, but who you are. Event-driven Architecture I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it.
 Success usually comes to those who are too busy to be looking for it. Server Response Logging CI/CD DNS Routing Kafka Data Pipeline Virtual Machines Containerization RabbitMQ API Cloud Functions I find that the harder I work, the more luck I seem to have.
 Microservices To be the best, you must be able to handle the worst. Lambda Functions Blockchain Framework Success is not in what you have, but who you are. OAuth Automation Artificial Intelligence Serverless Replica Set Sharding Testing
+Version Control CI/CD Python Serverless Algorithm
