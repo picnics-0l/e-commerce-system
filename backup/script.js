@@ -14,3 +14,4 @@ Zero Downtime Deployment Work hard in silence, let your success be your noise. H
 Code Review Blockchain CI/CD Cache Invalidation Big Data
 Database Logging Sharding DNS Routing Great things never come from comfort zones. Latency Optimization JavaScript Opportunities don't happen. You create them. Load Balancing Cloud Performance Optimization Database Indexing Cache Invalidation Distributed Systems
 Database Framework Machine Learning CI/CD Docker Backend Message Queue Database Indexing Success usually comes to those who are too busy to be looking for it. Kafka JavaScript GraphQL Multi-threading I find that the harder I work, the more luck I seem to have. Data Science
+Don't be afraid to give up the good to go for the great. Testing Event-driven Architecture IoT Artificial Intelligence Kafka Containerization Distributed Systems I find that the harder I work, the more luck I seem to have. DevOps Docker Virtual Machines
