@@ -14,3 +14,4 @@ Monitoring Backend Latency Optimization Algorithm Sharding A/B Testing Data Pipe
 Replica Set NLP Big Data Optimization Lambda Functions Work hard in silence, let your success be your noise.
 Database The only way to do great work is to love what you do. Code Review Event Sourcing If you can dream it, you can do it. Version Control Load Balancing Testing Security Replica Set Optimization Data Pipeline
 Pull Request Cloud Simplicity is the ultimate sophistication. DNS Routing Act as if what you do makes a difference. It does. Scalability Code Review
+Load Testing Agile Monitoring Simplicity is the ultimate sophistication. Python Neural Networks Data Pipeline Virtual Machines Dream big and dare to fail. NLP Pull Request Kubernetes Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment
