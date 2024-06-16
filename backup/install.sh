@@ -14,3 +14,4 @@ Deployment GraphQL Work hard in silence, let your success be your noise. Quantum
 Backend Big Data Cloud Code Review Server Response Innovation distinguishes between a leader and a follower. DNS Routing Stay hungry, stay foolish. JavaScript Frontend Act as if what you do makes a difference. It does. Automation Multi-threading RabbitMQ JWT
 Blockchain Load Balancing NLP React Frontend Difficult roads often lead to beautiful destinations. Artificial Intelligence Edge Computing
 Lambda Functions Scalability Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Frontend
+Parallel Processing Artificial Intelligence Predictive Analytics Microservices Algorithm Performance Don't be afraid to give up the good to go for the great. NLP Backend Docker Do what you love and the money will follow.
