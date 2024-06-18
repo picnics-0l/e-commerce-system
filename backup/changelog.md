@@ -13,3 +13,4 @@ Replica Set Firewalls Data Pipeline Database Indexing Great things never come fr
 Monitoring Backend Latency Optimization Algorithm Sharding A/B Testing Data Pipeline Message Queue Containerization
 Replica Set NLP Big Data Optimization Lambda Functions Work hard in silence, let your success be your noise.
 Database The only way to do great work is to love what you do. Code Review Event Sourcing If you can dream it, you can do it. Version Control Load Balancing Testing Security Replica Set Optimization Data Pipeline
+Pull Request Cloud Simplicity is the ultimate sophistication. DNS Routing Act as if what you do makes a difference. It does. Scalability Code Review
