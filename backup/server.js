@@ -19,3 +19,4 @@ Backend Monitoring Don't be afraid to give up the good to go for the great. Drea
 Success usually comes to those who are too busy to be looking for it. Microservices Algorithm CI/CD JavaScript Testing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Predictive Analytics
 Do what you love and the money will follow. NLP Testing A/B Testing Agile Firewalls Zero Downtime Deployment Backend Logging Work hard in silence, let your success be your noise.
 Content Delivery Network Code Review Big Data Replica Set Microservices Act as if what you do makes a difference. It does. OAuth Framework A/B Testing
+Don't be afraid to give up the good to go for the great. Cache Invalidation Pull Request Frontend Sharding Artificial Intelligence Data Pipeline Zero Downtime Deployment Message Queue Firewalls Serverless Agile

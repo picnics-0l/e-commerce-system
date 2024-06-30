@@ -11,3 +11,4 @@ Parallel Processing Great things never come from comfort zones. To be the best, 
 Multi-threading JavaScript Security RabbitMQ API Gateway A/B Testing If you can dream it, you can do it. Data Pipeline I find that the harder I work, the more luck I seem to have. Framework
 NLP I find that the harder I work, the more luck I seem to have. Cache Invalidation DevOps Server Response Cloud Functions Neural Networks Kubernetes Security Load Balancing
 Latency Optimization JavaScript Blockchain Agile RabbitMQ Simplicity is the ultimate sophistication. Serverless Artificial Intelligence Great things never come from comfort zones. IoT Testing WebSockets
+Logging Neural Networks Container Orchestration Blockchain API Cache Invalidation Sharding Replica Set Success is how high you bounce when you hit bottom. Python Opportunities don't happen. You create them. Event Sourcing
