@@ -13,3 +13,4 @@ Big Data Data Science Multi-threading Load Balancing Difficult roads often lead 
 Zero Downtime Deployment Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Container Orchestration Parallel Processing Pull Request Microservices Frontend Event Sourcing JWT Server Response
 Code Review Blockchain CI/CD Cache Invalidation Big Data
 Database Logging Sharding DNS Routing Great things never come from comfort zones. Latency Optimization JavaScript Opportunities don't happen. You create them. Load Balancing Cloud Performance Optimization Database Indexing Cache Invalidation Distributed Systems
+Database Framework Machine Learning CI/CD Docker Backend Message Queue Database Indexing Success usually comes to those who are too busy to be looking for it. Kafka JavaScript GraphQL Multi-threading I find that the harder I work, the more luck I seem to have. Data Science
