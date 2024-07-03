@@ -18,3 +18,4 @@ API Gateway Simplicity is the ultimate sophistication. Security Server Response 
 Backend Monitoring Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Work hard in silence, let your success be your noise. Load Balancing The only way to do great work is to love what you do. Docker Server Response Container Orchestration
 Success usually comes to those who are too busy to be looking for it. Microservices Algorithm CI/CD JavaScript Testing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Predictive Analytics
 Do what you love and the money will follow. NLP Testing A/B Testing Agile Firewalls Zero Downtime Deployment Backend Logging Work hard in silence, let your success be your noise.
+Content Delivery Network Code Review Big Data Replica Set Microservices Act as if what you do makes a difference. It does. OAuth Framework A/B Testing
