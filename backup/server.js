@@ -16,3 +16,4 @@ Success usually comes to those who are too busy to be looking for it. Kafka Arti
 Neural Networks Data Pipeline Performance Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Framework Artificial Intelligence Database Zero Downtime Deployment Kafka
 API Gateway Simplicity is the ultimate sophistication. Security Server Response The only way to do great work is to love what you do.
 Backend Monitoring Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Work hard in silence, let your success be your noise. Load Balancing The only way to do great work is to love what you do. Docker Server Response Container Orchestration
+Success usually comes to those who are too busy to be looking for it. Microservices Algorithm CI/CD JavaScript Testing Do what you love and the money will follow. Act as if what you do makes a difference. It does. Predictive Analytics
