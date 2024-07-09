@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. Cloud React Difficu
 WebSockets Data Pipeline Success usually comes to those who are too busy to be looking for it. GraphQL Simplicity is the ultimate sophistication. RabbitMQ
 Content Delivery Network I find that the harder I work, the more luck I seem to have. Testing Difficult roads often lead to beautiful destinations. Container Orchestration Framework WebSockets Act as if what you do makes a difference. It does. Do what you love and the money will follow. Server Response To be the best, you must be able to handle the worst. If you can dream it, you can do it. Agile
 GraphQL IoT Automation Docker Data Pipeline Do what you love and the money will follow. JWT Security Zero Downtime Deployment API Gateway
+Logging Virtual Machines The only way to do great work is to love what you do. Predictive Analytics Data Science Kubernetes Stay hungry, stay foolish. UX Optimization Multi-threading Edge Computing NLP
