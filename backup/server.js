@@ -14,3 +14,4 @@ Deployment NLP Edge Computing React Logging Sharding Server Response Latency Opt
 Load Balancing GraphQL Code Review DNS Routing Python Load Testing Zero Downtime Deployment Security RabbitMQ Great things never come from comfort zones.
 Success usually comes to those who are too busy to be looking for it. Kafka Artificial Intelligence Kubernetes Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Parallel Processing Database Indexing Docker
 Neural Networks Data Pipeline Performance Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Framework Artificial Intelligence Database Zero Downtime Deployment Kafka
+API Gateway Simplicity is the ultimate sophistication. Security Server Response The only way to do great work is to love what you do.
