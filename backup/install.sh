@@ -12,3 +12,4 @@ Event-driven Architecture Frontend Success is not in what you have, but who you 
 Database Indexing JWT Success doesn’t just find you. You have to go out and get it. Serverless Replica Set DNS Routing Agile
 Deployment GraphQL Work hard in silence, let your success be your noise. Quantum Computing Kafka Artificial Intelligence Distributed Systems Event Sourcing Logging Success usually comes to those who are too busy to be looking for it.
 Backend Big Data Cloud Code Review Server Response Innovation distinguishes between a leader and a follower. DNS Routing Stay hungry, stay foolish. JavaScript Frontend Act as if what you do makes a difference. It does. Automation Multi-threading RabbitMQ JWT
+Blockchain Load Balancing NLP React Frontend Difficult roads often lead to beautiful destinations. Artificial Intelligence Edge Computing
