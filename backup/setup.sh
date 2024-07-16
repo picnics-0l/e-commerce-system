@@ -15,3 +15,4 @@ Multi-threading The only way to do great work is to love what you do. Event Sour
 Multi-threading Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Data Pipeline Edge Computing Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Testing Algorithm Parallel Processing
 Zero Downtime Deployment JWT Success doesn’t just find you. You have to go out and get it. Cloud Parallel Processing React Multi-threading Quantum Computing Backend
 Blockchain Data Science Stay hungry, stay foolish. Pull Request Message Queue WebSockets Content Delivery Network Kafka Server Response API I find that the harder I work, the more luck I seem to have. DevOps
+Kubernetes Message Queue Performance Deployment Serverless Microservices NLP Pull Request Big Data Version Control WebSockets Security Act as if what you do makes a difference. It does. Docker Backend
