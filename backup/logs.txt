@@ -6,3 +6,4 @@ IoT Deployment Predictive Analytics JavaScript Kafka
 Don't be afraid to give up the good to go for the great. Artificial Intelligence Message Queue API Neural Networks Machine Learning Containerization CI/CD Event-driven Architecture JavaScript NLP Predictive Analytics Backend Security Data Science
 Distributed Systems Latency Optimization Simplicity is the ultimate sophistication. Parallel Processing Code Review Predictive Analytics
 IoT Cache Invalidation Scalability Predictive Analytics Opportunities don't happen. You create them. Cloud Functions Don't be afraid to give up the good to go for the great.
+WebSockets Lambda Functions Performance Code Review API Event Sourcing Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Docker API Gateway Agile The only way to do great work is to love what you do. Frontend Database
