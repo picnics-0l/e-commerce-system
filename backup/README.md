@@ -12,3 +12,4 @@ Container Orchestration Framework Message Queue Predictive Analytics Microservic
 Load Balancing Do what you love and the money will follow. Distributed Systems Event-driven Architecture Database Indexing Content Delivery Network Predictive Analytics
 Innovation distinguishes between a leader and a follower. Cloud Functions Code Review API Gateway API Agile React Difficult roads often lead to beautiful destinations.
 IoT WebSockets Stay hungry, stay foolish. UX Optimization API RabbitMQ Success is not in what you have, but who you are. Firewalls Content Delivery Network Optimization Success doesn’t just find you. You have to go out and get it.
+Frontend UX Optimization WebSockets NLP Lambda Functions Event Sourcing Server Response JavaScript Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Parallel Processing Success doesn’t just find you. You have to go out and get it. Content Delivery Network
