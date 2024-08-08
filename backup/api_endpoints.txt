@@ -8,3 +8,4 @@ Data Pipeline Microservices Monitoring Code Review CI/CD Virtual Machines Server
 JWT Latency Optimization Server Response Serverless Version Control Automation Docker DNS Routing Containerization Pull Request Great things never come from comfort zones. CI/CD I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations.
 A/B Testing Neural Networks Scalability Multi-threading DevOps Frontend
 Big Data Pull Request Serverless Sharding WebSockets Firewalls
+Backend Do what you love and the money will follow. Success is not in what you have, but who you are. Server Response Work hard in silence, let your success be your noise. Deployment Quantum Computing Edge Computing Testing

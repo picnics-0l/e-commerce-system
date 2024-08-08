@@ -7,3 +7,4 @@ Pull Request Testing WebSockets Replica Set Innovation distinguishes between a l
 Server Response Database DevOps Stay hungry, stay foolish. API Frontend
 Microservices Edge Computing Firewalls Data Pipeline Testing Optimization Difficult roads often lead to beautiful destinations. Framework RabbitMQ
 Great things never come from comfort zones. Data Pipeline Event Sourcing Containerization Artificial Intelligence Edge Computing Replica Set Server Response UX Optimization Lambda Functions The only way to do great work is to love what you do. Innovation distinguishes between a leader and a follower. Framework Virtual Machines Pull Request
+GraphQL API Gateway Blockchain Automation Machine Learning Code Review
