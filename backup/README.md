@@ -11,3 +11,4 @@ Firewalls Docker To be the best, you must be able to handle the worst. Opportuni
 Container Orchestration Framework Message Queue Predictive Analytics Microservices Success usually comes to those who are too busy to be looking for it. Load Balancing
 Load Balancing Do what you love and the money will follow. Distributed Systems Event-driven Architecture Database Indexing Content Delivery Network Predictive Analytics
 Innovation distinguishes between a leader and a follower. Cloud Functions Code Review API Gateway API Agile React Difficult roads often lead to beautiful destinations.
+IoT WebSockets Stay hungry, stay foolish. UX Optimization API RabbitMQ Success is not in what you have, but who you are. Firewalls Content Delivery Network Optimization Success doesn’t just find you. You have to go out and get it.

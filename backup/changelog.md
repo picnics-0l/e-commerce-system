@@ -11,3 +11,4 @@ Work hard in silence, let your success be your noise. Opportunities don't happen
 Edge Computing Parallel Processing A/B Testing Testing To be the best, you must be able to handle the worst.
 Replica Set Firewalls Data Pipeline Database Indexing Great things never come from comfort zones. Quantum Computing Simplicity is the ultimate sophistication. Monitoring Frontend Kafka Work hard in silence, let your success be your noise. Message Queue Performance
 Monitoring Backend Latency Optimization Algorithm Sharding A/B Testing Data Pipeline Message Queue Containerization
+Replica Set NLP Big Data Optimization Lambda Functions Work hard in silence, let your success be your noise.
