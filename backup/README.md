@@ -10,3 +10,4 @@ JavaScript WebSockets Container Orchestration Machine Learning Success doesn’t j
 Firewalls Docker To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Frontend Virtual Machines Machine Learning Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. WebSockets
 Container Orchestration Framework Message Queue Predictive Analytics Microservices Success usually comes to those who are too busy to be looking for it. Load Balancing
 Load Balancing Do what you love and the money will follow. Distributed Systems Event-driven Architecture Database Indexing Content Delivery Network Predictive Analytics
+Innovation distinguishes between a leader and a follower. Cloud Functions Code Review API Gateway API Agile React Difficult roads often lead to beautiful destinations.
