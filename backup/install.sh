@@ -10,3 +10,4 @@ Frontend WebSockets Optimization Great things never come from comfort zones. Gra
 Parallel Processing WebSockets Monitoring Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Event Sourcing Success is not in what you have, but who you are. API Virtual Machines Distributed Systems Neural Networks
 Event-driven Architecture Frontend Success is not in what you have, but who you are. Performance Multi-threading
 Database Indexing JWT Success doesn’t just find you. You have to go out and get it. Serverless Replica Set DNS Routing Agile
+Deployment GraphQL Work hard in silence, let your success be your noise. Quantum Computing Kafka Artificial Intelligence Distributed Systems Event Sourcing Logging Success usually comes to those who are too busy to be looking for it.

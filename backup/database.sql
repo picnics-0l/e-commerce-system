@@ -8,3 +8,4 @@ Artificial Intelligence Machine Learning Cloud OAuth Simplicity is the ultimate 
 Monitoring A/B Testing Opportunities don't happen. You create them. Firewalls API Gateway DevOps JWT
 Edge Computing RabbitMQ UX Optimization Framework Success is not in what you have, but who you are. Server Response WebSockets Simplicity is the ultimate sophistication. Backend React Container Orchestration Firewalls
 Machine Learning Edge Computing Replica Set Frontend Scalability Success usually comes to those who are too busy to be looking for it. Database Security Dream big and dare to fail. Event Sourcing Latency Optimization OAuth Logging Quantum Computing Difficult roads often lead to beautiful destinations.
+Message Queue Kubernetes Version Control Virtual Machines GraphQL Agile Cloud Functions Kafka Data Science NLP Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have.
