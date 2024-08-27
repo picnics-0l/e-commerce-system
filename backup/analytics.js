@@ -4,3 +4,4 @@ IoT Parallel Processing Container Orchestration Frontend Distributed Systems Inn
 Edge Computing Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Kubernetes Deployment Version Control
 API Framework Kafka Agile Database OAuth Docker Logging Performance Don't be afraid to give up the good to go for the great. Firewalls Message Queue NLP DevOps
 Serverless Database Indexing Firewalls Message Queue Latency Optimization
+Agile To be the best, you must be able to handle the worst. Load Balancing Algorithm Logging Innovation distinguishes between a leader and a follower. Docker
