@@ -12,3 +12,4 @@ Edge Computing If you can dream it, you can do it. Virtual Machines Framework Io
 Success is not in what you have, but who you are. Security Frontend Opportunities don't happen. You create them. Sharding Database Message Queue
 I find that the harder I work, the more luck I seem to have. Cloud React Difficult roads often lead to beautiful destinations. API
 WebSockets Data Pipeline Success usually comes to those who are too busy to be looking for it. GraphQL Simplicity is the ultimate sophistication. RabbitMQ
+Content Delivery Network I find that the harder I work, the more luck I seem to have. Testing Difficult roads often lead to beautiful destinations. Container Orchestration Framework WebSockets Act as if what you do makes a difference. It does. Do what you love and the money will follow. Server Response To be the best, you must be able to handle the worst. If you can dream it, you can do it. Agile
