@@ -11,3 +11,4 @@ Success doesn’t just find you. You have to go out and get it. Docker Act as if w
 Edge Computing If you can dream it, you can do it. Virtual Machines Framework IoT Success is not in what you have, but who you are. Artificial Intelligence Database Docker Deployment Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Security Frontend Opportunities don't happen. You create them. Sharding Database Message Queue
 I find that the harder I work, the more luck I seem to have. Cloud React Difficult roads often lead to beautiful destinations. API
+WebSockets Data Pipeline Success usually comes to those who are too busy to be looking for it. GraphQL Simplicity is the ultimate sophistication. RabbitMQ
