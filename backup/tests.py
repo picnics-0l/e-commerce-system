@@ -5,3 +5,4 @@ Dream big and dare to fail. The only way to do great work is to love what you do
 Deployment Serverless JavaScript Pull Request Frontend Agile JWT Scalability
 Load Testing CI/CD Microservices Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Success is not in what you have, but who you are. Scalability Event Sourcing Code Review Logging Serverless Work hard in silence, let your success be your noise. Lambda Functions
 NLP Simplicity is the ultimate sophistication. Data Science Monitoring Load Testing Blockchain Testing Do what you love and the money will follow. JavaScript Algorithm Pull Request
+Code Review Containerization API Gateway Parallel Processing Server Response Kafka Difficult roads often lead to beautiful destinations. Optimization Edge Computing Replica Set NLP Virtual Machines Innovation distinguishes between a leader and a follower.

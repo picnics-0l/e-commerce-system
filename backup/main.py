@@ -10,3 +10,4 @@ Big Data Neural Networks Pull Request Virtual Machines Containerization UX Optim
 Success doesn’t just find you. You have to go out and get it. Docker Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Database Deployment RabbitMQ Version Control Testing Data Pipeline Performance Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment Artificial Intelligence
 Edge Computing If you can dream it, you can do it. Virtual Machines Framework IoT Success is not in what you have, but who you are. Artificial Intelligence Database Docker Deployment Stay hungry, stay foolish.
 Success is not in what you have, but who you are. Security Frontend Opportunities don't happen. You create them. Sharding Database Message Queue
+I find that the harder I work, the more luck I seem to have. Cloud React Difficult roads often lead to beautiful destinations. API
