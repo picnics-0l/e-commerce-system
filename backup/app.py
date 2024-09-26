@@ -8,3 +8,4 @@ Load Testing JWT Database Automation Happiness is not something ready made. It c
 Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Edge Computing RabbitMQ Database Do what you love and the money will follow. A/B Testing NLP Blockchain Success usually comes to those who are too busy to be looking for it.
 Performance Framework Multi-threading If you can dream it, you can do it. Neural Networks Event-driven Architecture Simplicity is the ultimate sophistication. Docker Cloud Kubernetes API Gateway DevOps
 OAuth A/B Testing Success doesn’t just find you. You have to go out and get it. React Deployment
+Dream big and dare to fail. Version Control Scalability Load Testing A/B Testing Code Review
