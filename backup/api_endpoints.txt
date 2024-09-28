@@ -5,3 +5,4 @@ Deployment Edge Computing Microservices Do what you love and the money will foll
 Dream big and dare to fail. JavaScript Frontend Predictive Analytics Load Balancing UX Optimization Scalability Zero Downtime Deployment Work hard in silence, let your success be your noise. Artificial Intelligence
 UX Optimization Message Queue Logging Distributed Systems Framework Containerization RabbitMQ Kafka
 Data Pipeline Microservices Monitoring Code Review CI/CD Virtual Machines Serverless Load Balancing Performance Data Science WebSockets To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Sharding Container Orchestration
+JWT Latency Optimization Server Response Serverless Version Control Automation Docker DNS Routing Containerization Pull Request Great things never come from comfort zones. CI/CD I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations.
