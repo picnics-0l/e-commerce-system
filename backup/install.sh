@@ -7,3 +7,4 @@ Cache Invalidation Dream big and dare to fail. Logging NLP Pull Request JavaScri
 RabbitMQ Zero Downtime Deployment Framework Message Queue Parallel Processing Sharding Database Indexing A/B Testing Dream big and dare to fail.
 Data Science Blockchain Replica Set If you can dream it, you can do it. Distributed Systems Load Balancing Great things never come from comfort zones. Security Server Response
 Frontend WebSockets Optimization Great things never come from comfort zones. GraphQL Cache Invalidation Parallel Processing Replica Set Success doesn’t just find you. You have to go out and get it. Pull Request JavaScript Microservices
+Parallel Processing WebSockets Monitoring Simplicity is the ultimate sophistication. Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Event Sourcing Success is not in what you have, but who you are. API Virtual Machines Distributed Systems Neural Networks
