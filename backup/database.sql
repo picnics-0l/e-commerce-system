@@ -5,3 +5,4 @@ JWT Backend Load Testing Data Pipeline Stay hungry, stay foolish.
 Content Delivery Network NLP Zero Downtime Deployment Version Control Happiness is not something ready made. It comes from your own actions. Event Sourcing Container Orchestration CI/CD Logging
 Load Testing Event-driven Architecture Big Data Do what you love and the money will follow. Virtual Machines Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions. Distributed Systems
 Artificial Intelligence Machine Learning Cloud OAuth Simplicity is the ultimate sophistication. Algorithm Monitoring Dream big and dare to fail. NLP
+Monitoring A/B Testing Opportunities don't happen. You create them. Firewalls API Gateway DevOps JWT
