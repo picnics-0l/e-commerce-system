@@ -5,3 +5,4 @@ Zero Downtime Deployment Edge Computing Success doesn’t just find you. You have 
 If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. React Data Science Load Testing Event-driven Architecture Content Delivery Network Data Pipeline Sharding Latency Optimization Database Success is not in what you have, but who you are.
 Stay hungry, stay foolish. Latency Optimization Scalability Event-driven Architecture Database Indexing Cloud Functions Version Control RabbitMQ
 Lambda Functions CI/CD Don't be afraid to give up the good to go for the great. Pull Request DevOps Latency Optimization If you can dream it, you can do it. Framework Logging Data Pipeline Blockchain Firewalls Data Science
+Serverless Success is not in what you have, but who you are. Load Balancing Edge Computing Parallel Processing React
