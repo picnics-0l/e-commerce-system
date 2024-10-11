@@ -8,3 +8,4 @@ DevOps Load Testing Pull Request Docker Database Cloud Optimization Server Respo
 Difficult roads often lead to beautiful destinations. Virtual Machines Version Control Backend Scalability Kubernetes
 CI/CD Cloud DNS Routing Quantum Computing Load Balancing Agile Sharding Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Lambda Functions WebSockets Event-driven Architecture
 Innovation distinguishes between a leader and a follower. Artificial Intelligence Cloud Functions Automation Multi-threading
+Data Science Docker Python Cloud Framework Work hard in silence, let your success be your noise. Distributed Systems Success is not in what you have, but who you are. Neural Networks Don't be afraid to give up the good to go for the great. Scalability DevOps Edge Computing To be the best, you must be able to handle the worst.
