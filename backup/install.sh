@@ -6,3 +6,4 @@ Work hard in silence, let your success be your noise. NLP Success doesn’t just f
 Cache Invalidation Dream big and dare to fail. Logging NLP Pull Request JavaScript Firewalls
 RabbitMQ Zero Downtime Deployment Framework Message Queue Parallel Processing Sharding Database Indexing A/B Testing Dream big and dare to fail.
 Data Science Blockchain Replica Set If you can dream it, you can do it. Distributed Systems Load Balancing Great things never come from comfort zones. Security Server Response
+Frontend WebSockets Optimization Great things never come from comfort zones. GraphQL Cache Invalidation Parallel Processing Replica Set Success doesn’t just find you. You have to go out and get it. Pull Request JavaScript Microservices

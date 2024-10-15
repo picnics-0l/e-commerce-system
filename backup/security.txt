@@ -3,3 +3,4 @@ GraphQL Blockchain Code Review Big Data Framework Quantum Computing Success does
 Parallel Processing Act as if what you do makes a difference. It does. Database Indexing Security API Gateway Edge Computing UX Optimization Zero Downtime Deployment Kafka Optimization
 Don't be afraid to give up the good to go for the great. Opportunities don't happen. You create them. Message Queue Simplicity is the ultimate sophistication. JWT Blockchain IoT Content Delivery Network
 Frontend Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Sharding Pull Request Multi-threading Database Indexing Replica Set API IoT A/B Testing WebSockets
+Message Queue Act as if what you do makes a difference. It does. RabbitMQ Sharding Performance Multi-threading Stay hungry, stay foolish. Big Data Parallel Processing DevOps Predictive Analytics Monitoring Success doesn’t just find you. You have to go out and get it.
