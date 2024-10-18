@@ -2,3 +2,4 @@ Docker Lambda Functions Difficult roads often lead to beautiful destinations. CI
 Neural Networks Docker Logging API Virtual Machines If you can dream it, you can do it. Algorithm DevOps Cloud Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Lambda Functions
 UX Optimization Success is not in what you have, but who you are. Neural Networks Code Review Machine Learning Scalability Dream big and dare to fail. The only way to do great work is to love what you do. If you can dream it, you can do it.
 Deployment Edge Computing Microservices Do what you love and the money will follow. IoT Simplicity is the ultimate sophistication. Message Queue Pull Request
+Dream big and dare to fail. JavaScript Frontend Predictive Analytics Load Balancing UX Optimization Scalability Zero Downtime Deployment Work hard in silence, let your success be your noise. Artificial Intelligence
