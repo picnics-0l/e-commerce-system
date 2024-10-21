@@ -7,3 +7,4 @@ Performance Blockchain Message Queue Deployment Algorithm Containerization Do wh
 DevOps Load Testing Pull Request Docker Database Cloud Optimization Server Response OAuth Lambda Functions
 Difficult roads often lead to beautiful destinations. Virtual Machines Version Control Backend Scalability Kubernetes
 CI/CD Cloud DNS Routing Quantum Computing Load Balancing Agile Sharding Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. Lambda Functions WebSockets Event-driven Architecture
+Innovation distinguishes between a leader and a follower. Artificial Intelligence Cloud Functions Automation Multi-threading
