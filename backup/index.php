@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. UX Optimization Multi-threading To 
 Don't be afraid to give up the good to go for the great. Docker DevOps Algorithm Cloud Content Delivery Network Distributed Systems JavaScript Neural Networks Pull Request RabbitMQ
 WebSockets Containerization Event Sourcing RabbitMQ Security DevOps NLP Distributed Systems Load Testing Event-driven Architecture Parallel Processing Framework
 The only way to do great work is to love what you do. Backend UX Optimization CI/CD Logging Replica Set Neural Networks
+Firewalls Microservices DevOps Cloud Functions Serverless Frontend Containerization Python Database Indexing Event-driven Architecture Cloud If you can dream it, you can do it. Agile Edge Computing
