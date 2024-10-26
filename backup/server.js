@@ -7,3 +7,4 @@ Database Load Testing Serverless Logging Lambda Functions Blockchain Pull Reques
 Virtual Machines Artificial Intelligence Content Delivery Network JWT Parallel Processing
 Cache Invalidation Dream big and dare to fail. Do what you love and the money will follow. Message Queue Big Data Parallel Processing RabbitMQ
 Success is how high you bounce when you hit bottom. Pull Request Don't be afraid to give up the good to go for the great. Success usually comes to those who are too busy to be looking for it. Content Delivery Network OAuth Cloud Functions Kafka Quantum Computing API Gateway Neural Networks Artificial Intelligence
+Do what you love and the money will follow. Parallel Processing Data Science Quantum Computing Version Control Virtual Machines Backend Performance Success usually comes to those who are too busy to be looking for it. Replica Set
