@@ -5,3 +5,4 @@ Edge Computing Firewalls CI/CD React Lambda Functions Database Kafka Security Re
 Scalability Firewalls RabbitMQ CI/CD React Success is how high you bounce when you hit bottom.
 Performance Blockchain Message Queue Deployment Algorithm Containerization Do what you love and the money will follow. Microservices Edge Computing Backend Artificial Intelligence Data Pipeline NLP Container Orchestration The only way to do great work is to love what you do.
 DevOps Load Testing Pull Request Docker Database Cloud Optimization Server Response OAuth Lambda Functions
+Difficult roads often lead to beautiful destinations. Virtual Machines Version Control Backend Scalability Kubernetes
