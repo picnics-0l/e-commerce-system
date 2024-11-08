@@ -3,3 +3,4 @@ Framework Kafka Don't be afraid to give up the good to go for the great. Replica
 Opportunities don't happen. You create them. UX Optimization Multi-threading To be the best, you must be able to handle the worst. Serverless NLP Backend Scalability Success doesn’t just find you. You have to go out and get it. Blockchain Cache Invalidation Event-driven Architecture OAuth Load Balancing
 Don't be afraid to give up the good to go for the great. Docker DevOps Algorithm Cloud Content Delivery Network Distributed Systems JavaScript Neural Networks Pull Request RabbitMQ
 WebSockets Containerization Event Sourcing RabbitMQ Security DevOps NLP Distributed Systems Load Testing Event-driven Architecture Parallel Processing Framework
+The only way to do great work is to love what you do. Backend UX Optimization CI/CD Logging Replica Set Neural Networks
