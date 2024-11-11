@@ -5,3 +5,4 @@ JWT API Gateway Load Balancing The only way to do great work is to love what you
 CI/CD Message Queue RabbitMQ Content Delivery Network Innovation distinguishes between a leader and a follower. Great things never come from comfort zones.
 Logging Serverless DevOps Backend Kafka A/B Testing
 Cloud Scalability Do what you love and the money will follow. Sharding Dream big and dare to fail. Serverless
+JavaScript Distributed Systems Backend OAuth Logging Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment Algorithm WebSockets Event-driven Architecture

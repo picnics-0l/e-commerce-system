@@ -7,3 +7,4 @@ Security Innovation distinguishes between a leader and a follower. Deployment Sh
 JWT Cloud Functions Blockchain Cache Invalidation Work hard in silence, let your success be your noise. Artificial Intelligence
 Success doesn’t just find you. You have to go out and get it. DevOps NLP Performance Don't be afraid to give up the good to go for the great. Event Sourcing Success is not in what you have, but who you are.
 Algorithm DevOps Success is not in what you have, but who you are. Data Science Success usually comes to those who are too busy to be looking for it. Docker IoT Sharding Cloud Innovation distinguishes between a leader and a follower.
+Python JWT Artificial Intelligence Microservices API Gateway Replica Set Machine Learning To be the best, you must be able to handle the worst. Code Review Blockchain Latency Optimization Backend Serverless Data Science Framework
