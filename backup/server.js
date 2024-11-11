@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. Cache Inv
 Code Review Agile WebSockets Great things never come from comfort zones. Work hard in silence, let your success be your noise. Version Control
 Database Load Testing Serverless Logging Lambda Functions Blockchain Pull Request Stay hungry, stay foolish. Opportunities don't happen. You create them. RabbitMQ Frontend Containerization Security
 Virtual Machines Artificial Intelligence Content Delivery Network JWT Parallel Processing
+Cache Invalidation Dream big and dare to fail. Do what you love and the money will follow. Message Queue Big Data Parallel Processing RabbitMQ
