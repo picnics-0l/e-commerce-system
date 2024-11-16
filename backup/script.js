@@ -4,3 +4,4 @@ Big Data RabbitMQ Success is how high you bounce when you hit bottom. Server Res
 Edge Computing Firewalls CI/CD React Lambda Functions Database Kafka Security Replica Set Event Sourcing
 Scalability Firewalls RabbitMQ CI/CD React Success is how high you bounce when you hit bottom.
 Performance Blockchain Message Queue Deployment Algorithm Containerization Do what you love and the money will follow. Microservices Edge Computing Backend Artificial Intelligence Data Pipeline NLP Container Orchestration The only way to do great work is to love what you do.
+DevOps Load Testing Pull Request Docker Database Cloud Optimization Server Response OAuth Lambda Functions
