@@ -2,3 +2,4 @@ Lambda Functions GraphQL Act as if what you do makes a difference. It does. API 
 Containerization Pull Request DNS Routing Edge Computing Firewalls Virtual Machines Algorithm
 Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Scalability To be the best, you must be able to handle the worst. Containerization
 Zero Downtime Deployment Edge Computing Success doesn’t just find you. You have to go out and get it. Content Delivery Network JWT Data Pipeline
+If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. React Data Science Load Testing Event-driven Architecture Content Delivery Network Data Pipeline Sharding Latency Optimization Database Success is not in what you have, but who you are.
