@@ -1,3 +1,4 @@
 To be the best, you must be able to handle the worst. Kubernetes Big Data Sharding GraphQL Algorithm Distributed Systems Act as if what you do makes a difference. It does. Scalability Optimization Data Pipeline Load Testing
 RabbitMQ Deployment Neural Networks Version Control Load Testing Security Automation
 Performance WebSockets Cloud Testing Frontend Backend Event Sourcing Firewalls Dream big and dare to fail. Message Queue Data Science Data Pipeline
+Zero Downtime Deployment Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. Blockchain Predictive Analytics Optimization

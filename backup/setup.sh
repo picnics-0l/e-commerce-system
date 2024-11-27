@@ -4,3 +4,4 @@ API Gateway Virtual Machines CI/CD Security Algorithm Cache Invalidation Quantum
 Content Delivery Network Innovation distinguishes between a leader and a follower. Testing Automation JWT DNS Routing Great things never come from comfort zones. Code Review Replica Set Backend A/B Testing Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Edge Computing Serverless
 WebSockets DNS Routing If you can dream it, you can do it. Agile Multi-threading Latency Optimization Opportunities don't happen. You create them. UX Optimization Machine Learning Sharding
 Security Innovation distinguishes between a leader and a follower. Deployment Sharding Algorithm Don't be afraid to give up the good to go for the great. Zero Downtime Deployment
+JWT Cloud Functions Blockchain Cache Invalidation Work hard in silence, let your success be your noise. Artificial Intelligence
