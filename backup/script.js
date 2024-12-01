@@ -3,3 +3,4 @@ Database Framework Don't be afraid to give up the good to go for the great. Kafk
 Big Data RabbitMQ Success is how high you bounce when you hit bottom. Server Response The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
 Edge Computing Firewalls CI/CD React Lambda Functions Database Kafka Security Replica Set Event Sourcing
 Scalability Firewalls RabbitMQ CI/CD React Success is how high you bounce when you hit bottom.
+Performance Blockchain Message Queue Deployment Algorithm Containerization Do what you love and the money will follow. Microservices Edge Computing Backend Artificial Intelligence Data Pipeline NLP Container Orchestration The only way to do great work is to love what you do.
