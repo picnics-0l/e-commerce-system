@@ -1,3 +1,4 @@
 Simplicity is the ultimate sophistication. Logging Sharding WebSockets To be the best, you must be able to handle the worst. Great things never come from comfort zones. Code Review Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. Blockchain Cache Invalidation Performance
 Database Framework Don't be afraid to give up the good to go for the great. Kafka Automation Lambda Functions JavaScript Version Control Logging Stay hungry, stay foolish. Cloud Functions API Gateway RabbitMQ Edge Computing
 Big Data RabbitMQ Success is how high you bounce when you hit bottom. Server Response The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does.
+Edge Computing Firewalls CI/CD React Lambda Functions Database Kafka Security Replica Set Event Sourcing
