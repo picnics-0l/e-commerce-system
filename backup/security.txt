@@ -1,2 +1,3 @@
 Framework RabbitMQ Multi-threading Virtual Machines Deployment Artificial Intelligence Container Orchestration Code Review Act as if what you do makes a difference. It does.
 GraphQL Blockchain Code Review Big Data Framework Quantum Computing Success doesn’t just find you. You have to go out and get it. Logging Event-driven Architecture Lambda Functions JavaScript Success is how high you bounce when you hit bottom. Kafka Do what you love and the money will follow. Containerization
+Parallel Processing Act as if what you do makes a difference. It does. Database Indexing Security API Gateway Edge Computing UX Optimization Zero Downtime Deployment Kafka Optimization
