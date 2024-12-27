@@ -1,1 +1,2 @@
 Stay hungry, stay foolish. Database Indexing Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Frontend Predictive Analytics Deployment
+Opportunities don't happen. You create them. Zero Downtime Deployment Act as if what you do makes a difference. It does. Do what you love and the money will follow. Multi-threading Containerization Artificial Intelligence Code Review Success doesn’t just find you. You have to go out and get it.
