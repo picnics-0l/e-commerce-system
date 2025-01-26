@@ -1,0 +1,1 @@
+Stay hungry, stay foolish. Database Indexing Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Frontend Predictive Analytics Deployment
