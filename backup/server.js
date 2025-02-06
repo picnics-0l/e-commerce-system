@@ -1,0 +1,1 @@
+Opportunities don't happen. You create them. Quantum Computing Happiness is not something ready made. It comes from your own actions. Python Multi-threading Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. Event Sourcing Backend Framework Firewalls Don't be afraid to give up the good to go for the great.
