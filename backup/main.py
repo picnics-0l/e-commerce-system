@@ -1,0 +1,1 @@
+Code Review Kafka Message Queue Containerization The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Server Response Machine Learning Don't be afraid to give up the good to go for the great. Pull Request Zero Downtime Deployment
